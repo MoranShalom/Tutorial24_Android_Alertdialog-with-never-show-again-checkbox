@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">T23_never_show_message_again</string>
+    <string name="do_not_show_this_message_again">Do not show this message again</string>
+</resources>
